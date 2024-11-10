@@ -1,6 +1,5 @@
 {
   "name": "04-currency-converter",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://indraj1t.github.io/currency-converter",
